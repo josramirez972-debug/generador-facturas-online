@@ -2,6 +2,8 @@
 
 Aplicación web tipo SaaS enfocada en **freelancers, desarrolladores, diseñadores, consultores y pequeños negocios** de Latinoamérica, Estados Unidos y Europa que necesitan crear **cotizaciones/presupuestos comerciales** y **facturas profesionales en formato PDF (A4)** en cuestión de segundos.
 
+🔗 **Demo en vivo (Cloudflare):** [https://generador-facturas-online.josramirez972.workers.dev](https://generador-facturas-online.josramirez972.workers.dev)
+
 ---
 
 ## Características Principales
